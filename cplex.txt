@@ -1,0 +1,22 @@
+######################################
+#                                    #
+#    PROGRAMAÇÃO LINEAR COM CPLEX    #
+#                                    #
+######################################
+
+
+
+
+# DOWNLOAD E INSTALAÇÃO
+#######################
+- Cadastro: https://www.ibm.com/account/reg/br-pt/signup?formid=urx-20028
+- Fazer o dowload: do arquivo .bin
+- No terminal digitar os comandos: 
+    sudo chmod +x cos_installer_preview-20.1.0.0.R1-CC8CWML-linux-x86-64.bin
+    ./cos_installer_preview-20.1.0.0.R1-CC8CWML-linux-x86-64.bin
+    export PATH=$PATH/:/opt/ibm/ILOG/CPLEX_Studio_Community201/cplex/bin/x86-64_linux
+    source .bashrc
+    cplex
+
+
+
