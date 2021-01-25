@@ -18,5 +18,5 @@
     source .bashrc
     cplex
 
-
-
+- Instalando bibliotecas no Python
+pip install matplotlib spyder jupyterlab anaconda numpy pandas openpyxl
